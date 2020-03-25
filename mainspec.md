@@ -13,8 +13,13 @@ Selected data entry admins are able to input geo-data could be used to:
 ## User roles
 The following user roles shall be supported:
 1. Super admins 
-2. Data entry admins: group of restricted volunteers who are allocated specific geo-areas. 
+2. Data admins: Group of restricted volunteers who are allocated specific geo-areas. 
 3. Users: Anyone who uses the map
+
+## Data Sources
+There are few different data sources envisioned:
+1. Manual data entry
+2. External data sources: External data sources can be 1) Enabling your location data within the client app if you are corona virus quarantined. 2) It could be a telecom operator that shares location data based on user consents. 
 
 ## Use Cases
 ### Data Entry
