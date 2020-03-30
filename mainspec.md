@@ -38,5 +38,9 @@ The system shall be able to:
 Users are able to view google maps similar to traffic views. They are able to see streets marked in 5 different colors that shows how safe it is to use the area. 
 
 ## Requirements
+
+### Functional Requirements 
 All requirements are handled via [issues](https://github.com/covid-19-mapview/docs/issues).
 
+### Privacy
+The solution shall strictly follow the privacy rules where all personal information used and shared shall be done in a transparent manner. Users shall be able to opt out of any purpose (e.g. location tracking) other basic ones used for registration.
