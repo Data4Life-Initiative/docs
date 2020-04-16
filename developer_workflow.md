@@ -159,7 +159,7 @@ $ git push -fu origin <topic-branch>
 
 ### 7. Code review
 
-See [Code Review](codereview.md) for details.
+See [Code Review](codereview.md) (TBD) for details.
 
 ### 8. Merging the code into master
 
